@@ -4,10 +4,5 @@ workers_dev = false
 [build]
 command = "./build.sh"
 
-[vars]
-SPOTIFY_COUNT = 3
-SPOTIFY_ENDPOINT = "playlist"
-STEAM_COUNT = 3
-
 [assets]
 directory = "./public"
