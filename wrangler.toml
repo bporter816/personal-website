@@ -1,0 +1,8 @@
+name = "personal-website"
+workers_dev = false
+
+[build]
+command = "./build.sh"
+
+[assets]
+directory = "./public"
