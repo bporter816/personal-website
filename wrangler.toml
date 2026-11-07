@@ -1,5 +1,5 @@
 name = "personal-website"
-compatibility_date = "2025-12-30"
+compatibility_date = "2026-11-07"
 workers_dev = false
 
 [build]
@@ -7,3 +7,4 @@ command = "./build.sh"
 
 [assets]
 directory = "./public"
+not_found_handling = "404-page"
